@@ -1,20 +1,8 @@
 ---
 ---
 
-html {
-  font-size: 16px;
-
-  @include breakpoint($medium) {
-    font-size: 18px;
-  }
-
-  @include breakpoint($large) {
-    font-size: 20px;
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 22px;
-  }
+p, blockquote {
+ font-size:1.6em;
 }
 @import "{{ site.theme }}";
 h1.logo a > img {
