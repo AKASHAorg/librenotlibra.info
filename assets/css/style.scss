@@ -1,14 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-h1.logo a > img {
-	display: inline;
-	height: auto;
-	margin: 0 2vw 0 0;
-	max-height: 5em;
-	width: 40vw;
-}
 html {
   font-size: 16px;
 
@@ -24,3 +16,12 @@ html {
     font-size: 22px;
   }
 }
+@import "{{ site.theme }}";
+h1.logo a > img {
+	display: inline;
+	height: auto;
+	margin: 0 2vw 0 0;
+	max-height: 5em;
+	width: 40vw;
+}
+
