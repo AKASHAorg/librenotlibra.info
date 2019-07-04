@@ -9,3 +9,18 @@ h1.logo a > img {
 	max-height: 5em;
 	width: 40vw;
 }
+html {
+  font-size: 16px;
+
+  @include breakpoint($medium) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px;
+  }
+}
