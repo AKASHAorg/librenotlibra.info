@@ -1,8 +1,8 @@
 ---
 ---
 
-p, blockquote {
- font-size:1.6em;
+.body {
+  @include fluid-type(16px, 20px);
 }
 @import "{{ site.theme }}";
 h1.logo a > img {
@@ -12,4 +12,3 @@ h1.logo a > img {
 	max-height: 5em;
 	width: 40vw;
 }
-
