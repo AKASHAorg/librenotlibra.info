@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#logo a > img {
+h1.logo a > img {
 	display: inline;
 	height: auto;
 	margin: 0 2vw 0 0;
