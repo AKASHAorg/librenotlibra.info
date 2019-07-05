@@ -1,6 +1,4 @@
----
----
-
+@import "{{ site.theme }}";
 .body {
   font-size: 1.4em;
 }
@@ -8,7 +6,7 @@ blockquote {
   font-size: 1.4em;
   border-left: 10px solid #444;
 }
-@import "{{ site.theme }}";
+
 h1.logo a > img {
 	display: inline;
 	height: auto;
