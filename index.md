@@ -12,7 +12,7 @@ Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
 ## How does Facebook describe its Libra project?
-Retrieved from https://libra.org/en-US/vision/#how_it_works at 15:00 UTC, 3rd July 2019:
+Retrieved from _https://libra.org/en-US/vision/#how_it_works_ at 15:00 UTC, 3rd July 2019:
 
 > ### The Vision
 > Libra is a global, digitally native, reserve-backed cryptocurrency built on the foundation of blockchain technology. People will be able to send, receive, spend, and secure their money, enabling a more inclusive global financial system.
@@ -28,7 +28,7 @@ Retrieved from https://libra.org/en-US/vision/#how_it_works at 15:00 UTC, 3rd Ju
 
 The page links to the corresponding white paper, [archived here](/docs/LibraWhitePaper_en_US-1.pdf).
 
-## <a name="misrepresented-unnecessary-dangerous"></a>[Misrepresented, unnecessary, and dangerous]
+## <a name="misrepresented-unnecessary-dangerous"></a>Misrepresented, unnecessary, and dangerous
 Here are the top-level observations and objections that everyone should consider. 
 
 ### A Trojan horse for surveillance
