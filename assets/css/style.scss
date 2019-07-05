@@ -3,12 +3,16 @@
 
 @import "jekyll-theme-tactile";
 body {
-  font-size: 1.4em;
+	font-size: 16px;
 }
 
 blockquote {
-  font-size: 1.4em;
-  border-left: 6px solid #2e3747;
+	font-size: 16px;
+	border-left: 6px solid #2e3747;
+}
+
+a {
+	color: #007BFF;
 }
 
 h1.logo a > img {
