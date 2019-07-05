@@ -7,7 +7,7 @@ This website aims to help everyone understand why that’s the case. [Click here
 
 We intend to maintain a valuable resource here but make no claim to being definitive. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
 
-Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help us develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy. [Click here to edit in Github]({{ site.github.repository_url }}/edit/{{ site.branch }}/{{ page.path }}).
+Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help us develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy.
 
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
@@ -63,8 +63,8 @@ Mark Zuckerberg does little to dissuade anyone that he is anything less than man
 
 - [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), The Guardian
 - [Facebook has amassed outsized powers … so great that Zuckerberg doesn’t bother denying the fact. “In a lot of ways Facebook is more like a government than a traditional company.”](https://books.google.be/books?id=Q8gPDgAAQBAJ&lpg=PP1&dq=World%20Without%20Mind%3A%20The%20Existential%20Threat%20of%20Big%20Tech&pg=PT72#v=onepage&q&f=false), World Without Mind: The Existential Threat of Big Tech, Franklin Foer
-- [Facebook’s story is “an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.”](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false) Antisocial Media: How Facebook Disconnects Us and Undermines Democracy, Siva Vaidhyanathan
-- [It’s not that we’ve failed to rein in Facebook and Google. We’ve not even tried.](https://www.theguardian.com/commentisfree/2019/jul/02/facebook-google-data-change-our-behaviour-democracy), The Guardian
+- [Facebook’s story is “an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.”](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false), Antisocial Media: How Facebook Disconnects Us and Undermines Democracy, Siva Vaidhyanathan
+- [It’s not that we’ve failed to rein in Facebook and Google. We’ve not even tried.](https://www.theguardian.com/commentisfree/2019/jul/02/facebook-google-data-change-our-behaviour-democracy), Shoshana Zuboff, The Guardian
 
 ### A threat to global financial stability
 Libra has the propensity to destabilize economies through replacing fiat currency in developing nations.
