@@ -82,4 +82,4 @@ Sustainability requires healthy, distributed networks, with both diversity and i
 
 Facebook Libra represents little more than the technologization of past hegemonic practices. Those privileged corporates involved in the cosy Libra club have no motivation to move beyond Libra’s genesis architecture, in fact quite the opposite. Either way, should it be allowed to proceed, Facebook Libra represents a forbidding systemic block to the future flourishing of diverse and distributed projects attending to this existential challenge.
 
-- For more on this, For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
+- For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
