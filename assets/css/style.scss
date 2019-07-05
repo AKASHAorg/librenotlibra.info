@@ -11,9 +11,13 @@ blockquote {
 	border-left: 6px solid #2e3747;
 }
 
-a {
+a, p a {
 	color: #007BFF;
 	font-weight: 300;
+}
+
+h2 {
+	margin-top: 40px;
 }
 
 h3 {
