@@ -1,3 +1,6 @@
+THIS SITE REMAINS A WORK IN PROGRESS
+_____________________________________
+
 Facebook Libra is misrepresented, unnecessary, and dangerous.
 
 This website aims to help everyone understand why that’s the case. [Click here to jump straight to it](#misrepresented-unnecessary-dangerous).
@@ -25,7 +28,7 @@ Retrieved from https://libra.org/en-US/vision/#how_it_works at 15:00 UTC, 3rd Ju
 
 The page links to the corresponding white paper, [archived here](/docs/LibraWhitePaper_en_US-1.pdf).
 
-## [Misrepresented, unnecessary, and dangerous](#misrepresented-unnecessary-dangerous)
+## <a name="misrepresented-unnecessary-dangerous"></a>[Misrepresented, unnecessary, and dangerous]
 Here are the top-level observations and objections that everyone should consider. 
 
 ### A Trojan horse for surveillance
