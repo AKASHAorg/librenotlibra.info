@@ -13,6 +13,11 @@ blockquote {
 
 a {
 	color: #007BFF;
+	font-weight: 300;
+}
+
+h3 {
+	color: #777;
 }
 
 h1.logo a > img {
@@ -21,4 +26,8 @@ h1.logo a > img {
 	margin: 0 2vw 0 0;
 	max-height: 5em;
 	width: 40vw;
+}
+
+ul li {
+	list-style-position: inside;
 }
