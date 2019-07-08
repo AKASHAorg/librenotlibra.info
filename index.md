@@ -4,7 +4,7 @@ This website aims to help everyone understand why that’s the case. [Click here
 
 The hashtag #LibreNotLibra was [coined](https://twitter.com/aantonop/status/1140953685809348608) by Andreas M. Antonopoulos, 18 June 2019. There's no doubting it's a beautifully succinct way of putting it, and here we aim to provide more detail for those looking to learn more and/or communicate the situation to friends and colleagues, to politicians and regulators. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
 
-Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy. In short, this site remains a work in progress. You can also [join us on Telegram](https://t.me/LibreNotLibra) to chat at greater length.
+This site remains a work in progress. Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy. You can also [join us on Telegram](https://t.me/LibreNotLibra) to chat about Libra in general at greater length.
 
 [![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
 
