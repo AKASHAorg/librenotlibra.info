@@ -36,12 +36,16 @@ Facebook Libra is the company’s Trojan horse to complete its surveillance capi
 
 Facebook may promise to maintain an [ethics wall](https://en.wikipedia.org/wiki/Chinese_wall) between its respective financial and social panopticons, and [repeat](https://www.facebook.com/notes/david-marcus/libra-2-weeks-in/10158616513819148/) the assertion as much as it likes, but it took the company less than two years to [renege](https://www.wired.co.uk/article/facebook-whatsapp-fine-european-commission) on its promise to keep Facebook and Whatsapp separate. The company’s reputation speaks for itself.
 
+<div class="further-reading">FURTHER READING</div>
+
 - [If Facebook or Google create their own currency, they can control our lives](), The Guardian
 
 ### Not a blockchain
 Facebook claims that the Libra technology is “built on the foundation of blockchain technology”. That is not true. There are no blocks. There are no chains. Facebook Libra is a traditionally-federated system operated by an exclusive cartel of very large corporations.
 
 The company has chosen to ‘block-wash’, so to speak. It may be hoping to have some of the genuine enthusiasm for blockchain technologies rub off on its project. More alarmingly, this misrepresentation appears to be a barely disguised attempt to exploit regulatory gaps.
+
+<div class="further-reading">FURTHER READING</div>
 
 - [How Will Facebook’s Libra “Blockchain” Really Work?](https://onezero.medium.com/thoughts-on-libra-blockchain-49b8f6c26372), Medium OneZero
 - [Facebook’s Libra: blockchain, but without the blocks or chain](https://ftalphaville.ft.com/2019/06/18/1560849057000/Facebook-s-Libra--blockchain--but-without-the-blocks-or-chain/), Financial Times
@@ -55,11 +59,15 @@ My AI on my device, good. Their AI on my device, doubleplusungood.
 
 Facebook presents this as “safeguarding” when it is in fact the tool of Orwellian oppression.
 
+<div class="further-reading">FURTHER READING</div>
+
 - [AI on the Edge at Facebook Developer Conference 2019](https://youtu.be/BmweQVPJhXs), Facebook F8 video
 - [The inevitability of the transition from a surveillance-society to a veillance-society: Moral and economic grounding for sousveillance](http://www.eyetap.org/papers/docs/IEEE_ISTAS13_Veillance2_Ali_Mann.pdf), Mir Adnan Ali and Steve Mann
 
 ### A threat to democracy
 Mark Zuckerberg does little to dissuade anyone that he is anything less than maniacally obsessed with the supposed ‘benevolent’ application of his immense powers, even if that might entail circumventing democratic institutions and processes. Surveillance capitalism, of which Facebook is a prime exponent, is itself anti-democratic.
+
+<div class="further-reading">FURTHER READING</div>
 
 - [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), The Guardian
 - [Facebook has amassed outsized powers … so great that Zuckerberg doesn’t bother denying the fact. “In a lot of ways Facebook is more like a government than a traditional company.”](https://books.google.be/books?id=Q8gPDgAAQBAJ&lpg=PP1&dq=World%20Without%20Mind%3A%20The%20Existential%20Threat%20of%20Big%20Tech&pg=PT72#v=onepage&q&f=false), World Without Mind: The Existential Threat of Big Tech, Franklin Foer
@@ -74,6 +82,8 @@ Former World Bank Chief Economist and Nobel laureate Joseph Stiglitz [notes](htt
 Yet Facebook Libra sets out to achieve a level of [vertical financial integration and visibility](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html) far exceeding the power and reach of many national economies and banks. It's clear that Facebook Libra threatens to destabilize economies by replacing fiat currency in developing nations.
 
 By transferring power over the handling of payments, banking, and money within an economy from accountable democratic institutions to technology companies, we set ourselves up for a future where nation states become toothless under the yoke of profit-driven entities.
+
+<div class="further-reading">FURTHER READING</div>
 
 - [Facebook's Libra will not help the unbanked](https://ftalphaville.ft.com/2019/06/19/1560920406000/Facebook-s-Libra-will-not-help-the-unbanked/), Financial Times
 - [Launching a Global Currency Is a Bold, Bad Move for Facebook](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html), The New York Times
