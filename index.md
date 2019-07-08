@@ -39,6 +39,9 @@ Facebook may promise to maintain an [ethics wall](https://en.wikipedia.org/wiki/
 <div class="further-reading">Further reading</div>
 
 - [If Facebook or Google create their own currency, they can control our lives](), The Guardian
+- [Facebook Libra is ‘most invasive and dangerous form of surveillance ever designed’, critics say](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-libra-cryptocurrency-privacy-data-collection-a8963381.html), Anthony Cuthbertson, The Independent
+- [The radical idea hiding inside Facebook’s digital currency proposal](https://www.technologyreview.com/s/613877/how-facebooks-new-blockchain-might-revolutionize-our-digital-identities/), Mike Orcutt, MIT Technology Review
+- [Why Facebook is pushing Libra](https://www.washingtonpost.com/politics/2019/06/20/why-facebook-is-pushing-libra/?utm_term=.ecd38ad6adb0), The Washington Post
 
 ### Not a blockchain
 Facebook claims that the Libra technology is “built on the foundation of blockchain technology”. That is not true. There are no blocks. There are no chains. Facebook Libra is a traditionally-federated system operated by an exclusive cartel of very large corporations.
@@ -89,6 +92,8 @@ By transferring power over the handling of payments, banking, and money within a
 - [Launching a Global Currency Is a Bold, Bad Move for Facebook](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html), The New York Times
 - [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down), The Guardian
 - [G7 Forming Task Force in Response to Facebook’s Libra Cryptocurrency](https://www.coindesk.com/g7-forming-task-force-in-response-facebooks-libra-cryptocurrency), Coindesk
+- [The Trouble Starts If Facebook’s New Currency Succeeds](https://www.theatlantic.com/ideas/archive/2019/06/dont-trust-libra-facebooks-new-cryptocurrency/592450/), Eric Posner, The Atlantic
+- [Facebook’s Libra: Does the World Need Frictionless Money?](https://carnegieendowment.org/chinafinancialmarkets/79396), Michael Pettis, Carnegie Endowment for International Peace 
 
 ### Ethics
 
