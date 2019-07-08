@@ -78,6 +78,19 @@ By transferring power over the handling of payments, banking, and money within a
 - [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down), The Guardian
 - [G7 Forming Task Force in Response to Facebook’s Libra Cryptocurrency](https://www.coindesk.com/g7-forming-task-force-in-response-facebooks-libra-cryptocurrency), Coindesk
 
+### Ethics
+
+A web search (3rd July 2019) fails to identify any reference by Facebook to its ethical responsibilities specific to Libra. The company merely notes in its white paper its responsibility to "support ethical actors" without exploring the need for itself. As Sarah James Lewis, Executive Director of [Open Privacy](https://openprivacy.ca/), [tweets](https://twitter.com/SarahJamieLewis/status/1139429913922957312) sarcastically:
+
+> Can't wait for a cryptocurrency with the ethics of Uber, the censorship resistance of Paypal, and the centralization of Visa, all tied together under the proven privacy of Facebook.
+
+With inspiration from [Professor George DiMartino](https://georgedemartino.com/cv/), here are [four ethical principles](https://books.google.be/books?id=7A4lDgAAQBAJ&lpg=PP1&dq=doughnut%20economics&pg=PA138#v=onepage&q&f=false) proposed by [Kate Raworth](https://www.kateraworth.com/doughnut/) in _Doughnut Economics_ for the economics profession that could be said to apply equally here:
+
+1. _Act in service_ to human prosperity in a flourishing web of life
+2. _Respect autonomy_ in the communities that you serve by ensuring their engagement and consent, while remaining ever aware of the inequalities and differences that may lie within them
+3. _Be prudential_ in policymaking, seeking to minimise the risk of harm
+4. _Work with humility_ by making transparent the assumptions and shortcomings of your models, and by recognising alternative economic perspectives and tools.
+
 ### Systems thinking
 The ultimate information technology challenge is the care and maintenance of a digital infrastructure that can help us rise up to so-called super wicked problems, collectively. Given the growing appreciation of the nature of complexity and the complexity of nature, we know we’re in the domain of systems thinking and sustainability —  the health and resilience of living systems including our planet, our societies, and our organisations.
 
