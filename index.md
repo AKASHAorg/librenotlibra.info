@@ -2,9 +2,11 @@ Facebook Libra is misrepresented, unnecessary, and dangerous.
 
 This website aims to help everyone understand why that’s the case. [Click here to jump straight to it](#misrepresented-unnecessary-dangerous).
 
-The hashtag #LibreNotLibra was [coined](https://twitter.com/aantonop/status/1140953685809348608) by Andreas M. Antonopoulos, 18 June 2019. There's no doubting it's a beautifully succinct way of putting it. On this website, we aim to provide more detail for those looking to learn more and/or communicate the situation to friends and colleagues, to politicians and regulators. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
+The hashtag #LibreNotLibra was [coined](https://twitter.com/aantonop/status/1140953685809348608) by Andreas M. Antonopoulos, 18 June 2019. There's no doubting it's a beautifully succinct way of putting it, and here we aim to provide more detail for those looking to learn more and/or communicate the situation to friends and colleagues, to politicians and regulators. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
 
-Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy. In short, this site remains a work in progress.
+Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy. In short, this site remains a work in progress. You can also [join us on Telegram](https://t.me/LibreNotLibra) to chat at greater length.
+
+[![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
 
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
@@ -116,3 +118,8 @@ Sustainability requires healthy, distributed networks, with both diversity and i
 Facebook Libra represents little more than the technologization of past hegemonic practices. Those privileged corporates involved in the cosy Libra club have no motivation to move beyond Libra’s genesis architecture, in fact quite the opposite. Either way, should it be allowed to proceed, Facebook Libra represents a forbidding systemic block to the future flourishing of diverse and distributed projects attending to this existential challenge.
 
 - For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
+
+***
+[Chat about Libra on Telegram](https://t.me/LibreNotLibra)
+[![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
+
