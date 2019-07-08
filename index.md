@@ -38,10 +38,10 @@ Facebook may promise to maintain an [ethics wall](https://en.wikipedia.org/wiki/
 
 <div class="further-reading">Further reading</div>
 
-- [If Facebook or Google create their own currency, they can control our lives](), The Guardian
+- [If Facebook or Google create their own currency, they can control our lives](https://www.theguardian.com/commentisfree/2019/jun/24/facebook-google-currency-libra-financial-transactions), John Harris, The Guardian
 - [Facebook Libra is ‘most invasive and dangerous form of surveillance ever designed’, critics say](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-libra-cryptocurrency-privacy-data-collection-a8963381.html), Anthony Cuthbertson, The Independent
 - [The radical idea hiding inside Facebook’s digital currency proposal](https://www.technologyreview.com/s/613877/how-facebooks-new-blockchain-might-revolutionize-our-digital-identities/), Mike Orcutt, MIT Technology Review
-- [Why Facebook is pushing Libra](https://www.washingtonpost.com/politics/2019/06/20/why-facebook-is-pushing-libra/?utm_term=.ecd38ad6adb0), The Washington Post
+- [Why Facebook is pushing Libra](https://www.washingtonpost.com/politics/2019/06/20/why-facebook-is-pushing-libra/?utm_term=.ecd38ad6adb0), Ben Power, The Washington Post
 
 ### Not a blockchain
 Facebook claims that the Libra technology is “built on the foundation of blockchain technology”. That is not true. There are no blocks. There are no chains. Facebook Libra is a traditionally-federated system operated by an exclusive cartel of very large corporations.
@@ -50,10 +50,10 @@ The company has chosen to ‘block-wash’, so to speak. It may be hoping to hav
 
 <div class="further-reading">Further reading</div>
 
-- [How Will Facebook’s Libra “Blockchain” Really Work?](https://onezero.medium.com/thoughts-on-libra-blockchain-49b8f6c26372), Medium OneZero
-- [Facebook’s Libra: blockchain, but without the blocks or chain](https://ftalphaville.ft.com/2019/06/18/1560849057000/Facebook-s-Libra--blockchain--but-without-the-blocks-or-chain/), Financial Times
-- [Facebook’s Libra Masterplan](https://onezero.medium.com/the-libra-masterplan-dc9560e41c87), Medium OneZero
-- [Nouriel Roubini outlines the 2020 recession risk](https://ftalphaville.ft.com/2019/06/21/1561105108000/Nouriel-Roubini-outlines-the-2020-recession-risk/), Financial Times
+- [How Will Facebook’s Libra “Blockchain” Really Work?](https://onezero.medium.com/thoughts-on-libra-blockchain-49b8f6c26372), Jameson Lopp, Medium OneZero
+- [Facebook’s Libra: blockchain, but without the blocks or chain](https://ftalphaville.ft.com/2019/06/18/1560849057000/Facebook-s-Libra--blockchain--but-without-the-blocks-or-chain/), Jemima Kelly, Financial Times
+- [Facebook’s Libra Masterplan](https://onezero.medium.com/the-libra-masterplan-dc9560e41c87), Eric Wall, Medium OneZero
+- [Nouriel Roubini outlines the 2020 recession risk](https://ftalphaville.ft.com/2019/06/21/1561105108000/Nouriel-Roubini-outlines-the-2020-recession-risk/), Izabella Kaminska, Financial Times
 
 ### Distributed oppression
 Recently-announced Facebook technologies such as "AI on the Edge" pose a massive threat to freedom of speech, and this becomes a threat to commercial participation in society too when allied with Libra.
@@ -72,9 +72,9 @@ Mark Zuckerberg does little to dissuade anyone that he is anything less than man
 
 <div class="further-reading">Further reading</div>
 
-- [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), The Guardian
-- [Facebook has amassed outsized powers … so great that Zuckerberg doesn’t bother denying the fact. “In a lot of ways Facebook is more like a government than a traditional company.”](https://books.google.be/books?id=Q8gPDgAAQBAJ&lpg=PP1&dq=World%20Without%20Mind%3A%20The%20Existential%20Threat%20of%20Big%20Tech&pg=PT72#v=onepage&q&f=false), World Without Mind: The Existential Threat of Big Tech, Franklin Foer
-- [Facebook’s story is “an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.”](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false), Antisocial Media: How Facebook Disconnects Us and Undermines Democracy, Siva Vaidhyanathan
+- [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), Charlotte, Higgins, The Guardian
+- [Facebook has amassed outsized powers … so great that Zuckerberg doesn’t bother denying the fact. “In a lot of ways Facebook is more like a government than a traditional company.”](https://books.google.be/books?id=Q8gPDgAAQBAJ&lpg=PP1&dq=World%20Without%20Mind%3A%20The%20Existential%20Threat%20of%20Big%20Tech&pg=PT72#v=onepage&q&f=false), Franklin Foer, World Without Mind: The Existential Threat of Big Tech
+- [Facebook’s story is “an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.”](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false), Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
 - [It’s not that we’ve failed to rein in Facebook and Google. We’ve not even tried.](https://www.theguardian.com/commentisfree/2019/jul/02/facebook-google-data-change-our-behaviour-democracy), Shoshana Zuboff, The Guardian
 
 ### A threat to global financial stability
@@ -88,10 +88,10 @@ By transferring power over the handling of payments, banking, and money within a
 
 <div class="further-reading">Further reading</div>
 
-- [Facebook's Libra will not help the unbanked](https://ftalphaville.ft.com/2019/06/19/1560920406000/Facebook-s-Libra-will-not-help-the-unbanked/), Financial Times
-- [Launching a Global Currency Is a Bold, Bad Move for Facebook](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html), The New York Times
-- [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down), The Guardian
-- [G7 Forming Task Force in Response to Facebook’s Libra Cryptocurrency](https://www.coindesk.com/g7-forming-task-force-in-response-facebooks-libra-cryptocurrency), Coindesk
+- [Facebook's Libra will not help the unbanked](https://ftalphaville.ft.com/2019/06/19/1560920406000/Facebook-s-Libra-will-not-help-the-unbanked/), Brendan Greeley, Financial Times
+- [Launching a Global Currency Is a Bold, Bad Move for Facebook](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html), Matt Stoller, The New York Times
+- [Why Facebook's Libra currency gets the thumbs down](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down), Joseph Stiglitz, The Guardian
+- [G7 Forming Task Force in Response to Facebook’s Libra Cryptocurrency](https://www.coindesk.com/g7-forming-task-force-in-response-facebooks-libra-cryptocurrency), Daniel Palmer, Coindesk
 - [The Trouble Starts If Facebook’s New Currency Succeeds](https://www.theatlantic.com/ideas/archive/2019/06/dont-trust-libra-facebooks-new-cryptocurrency/592450/), Eric Posner, The Atlantic
 - [Facebook’s Libra: Does the World Need Frictionless Money?](https://carnegieendowment.org/chinafinancialmarkets/79396), Michael Pettis, Carnegie Endowment for International Peace 
 
