@@ -38,7 +38,7 @@ Facebook may promise to maintain an [ethics wall](https://en.wikipedia.org/wiki/
 
 <div class="further-reading">Further reading</div>
 
-- [If Facebook or Google create their own currency, they can control our lives](), The Guardian
+- [If Facebook or Google create their own currency, they can control our lives](https://www.theguardian.com/commentisfree/2019/jun/24/facebook-google-currency-libra-financial-transactions), The Guardian
 
 ### Not a blockchain
 Facebook claims that the Libra technology is “built on the foundation of blockchain technology”. That is not true. There are no blocks. There are no chains. Facebook Libra is a traditionally-federated system operated by an exclusive cartel of very large corporations.
