@@ -79,7 +79,7 @@ Former World Bank Chief Economist and Nobel laureate Joseph Stiglitz [notes](htt
 
 > The real problem with our existing currencies and financial arrangements ... is the lack of competition among, and regulation of, the companies that control transactions.
 
-Yet Facebook Libra sets out to achieve a level of [vertical financial integration and visibility](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html) far exceeding the power and reach of many national economies and banks. It's clear that Facebook Libra threatens to destabilize economies by replacing fiat currency in developing nations.
+Yet Facebook Libra sets out to achieve a level of [vertical integration and visibility](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html) far exceeding the power and reach of many national economies and banks. It's clear that Facebook Libra threatens to destabilize economies by replacing fiat currency in developing nations.
 
 By transferring power over the handling of payments, banking, and money within an economy from accountable democratic institutions to technology companies, we set ourselves up for a future where nation states become toothless under the yoke of profit-driven entities.
 
