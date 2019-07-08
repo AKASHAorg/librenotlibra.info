@@ -67,9 +67,11 @@ Mark Zuckerberg does little to dissuade anyone that he is anything less than man
 - [It’s not that we’ve failed to rein in Facebook and Google. We’ve not even tried.](https://www.theguardian.com/commentisfree/2019/jul/02/facebook-google-data-change-our-behaviour-democracy), Shoshana Zuboff, The Guardian
 
 ### A threat to global financial stability
-Libra threatens to destabilize economies through replacing fiat currency in developing nations.
+Former World Bank Chief Economist and Nobel laureate Joseph Stiglitz [notes](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down):
 
-Former World Bank Chief Economist and Nobel laureate Joseph Stiglitz [notes](https://www.theguardian.com/business/2019/jul/02/why-facebook-libra-currency-gets-the-thumbs-down): “The real problem with our existing currencies and financial arrangements ... is the lack of competition among, and regulation of, the companies that control transactions." Libra has the potential to entail a level of vertical [financial integration and visibility](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html) which exceeds the power and reach of many national economies and banks.
+> The real problem with our existing currencies and financial arrangements ... is the lack of competition among, and regulation of, the companies that control transactions.
+
+Yet Facebook Libra sets out to achieve a level of [vertical financial integration and visibility](https://www.nytimes.com/2019/06/19/opinion/facebook-currency-libra.html) far exceeding the power and reach of many national economies and banks. It's clear that Facebook Libra threatens to destabilize economies by replacing fiat currency in developing nations.
 
 By transferring power over the handling of payments, banking, and money within an economy from accountable democratic institutions to technology companies, we set ourselves up for a future where nation states become toothless under the yoke of profit-driven entities.
 
