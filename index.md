@@ -5,9 +5,9 @@ Facebook Libra is misrepresented, unnecessary, and dangerous.
 
 This website aims to help everyone understand why that’s the case. [Click here to jump straight to it](#misrepresented-unnecessary-dangerous).
 
-We intend to maintain a valuable resource here but make no claim to being definitive. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
+The hashtag #LibreNotLibra was [coined](https://twitter.com/aantonop/status/1140953685809348608) by Andreas M. Antonopoulos, 18 June 2019. We intend to maintain a valuable resource here but make no claim to being definitive. We also curate the broad and deep analysis, news and commentary on this topic at [LibreNotLibra.com](https://librenotlibra.com).
 
-Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help us develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy.
+Please let us know [@LibreNotLibra](https://twitter.com/LibreNotLibra) if you’d like to help develop more detailed, specialist information in the context of government, economics, banking, decentralization, and privacy.
 
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
