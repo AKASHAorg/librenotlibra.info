@@ -55,9 +55,9 @@ The company has chosen to ‘block-wash’, so to speak. It may be hoping to hav
 - [Nouriel Roubini outlines the 2020 recession risk](https://ftalphaville.ft.com/2019/06/21/1561105108000/Nouriel-Roubini-outlines-the-2020-recession-risk/), Izabella Kaminska, Financial Times
 
 ### Distributed oppression
-Recently-announced Facebook technologies such as "AI on the Edge" pose a massive threat to freedom of speech, and this becomes a threat to commercial participation in society too when allied with Libra.
+Recently-announced Facebook technologies such as their instantiation of "AI on the Edge" pose a massive threat to freedom of speech, and this becomes a threat to commercial participation in society too when allied with Libra.
 
-My AI on my device, good. Their AI on my device, doubleplusungood.
+My AI on my device, good. Facebook's AI on my device, doubleplusungood.
 
 Facebook presents this as “safeguarding” when it is in fact the tool of Orwellian oppression.
 
@@ -120,6 +120,6 @@ Facebook Libra represents little more than the technologization of past hegemoni
 - For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
 
 ***
-[Chat about Libra on Telegram](https://t.me/LibreNotLibra)
+[Chat about Libra on Telegram](https://t.me/LibreNotLibra)<br>
 [![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
 
