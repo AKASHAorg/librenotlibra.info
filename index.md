@@ -120,6 +120,7 @@ Facebook Libra represents little more than the technologization of past hegemoni
 - For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
 
 ***
-[Chat about Libra on Telegram](https://t.me/LibreNotLibra)<br>
+[Chat about Libra on Telegram](https://t.me/LibreNotLibra)
+
 [![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
 
