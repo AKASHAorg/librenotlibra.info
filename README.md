@@ -1,2 +1,2 @@
 # LibreNotLibra
-Github Pages site for LibreNotLibra.org
+Github Pages site for [LibreNotLibra.info](https://librenotlibra.info)
