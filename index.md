@@ -55,11 +55,11 @@ The company has chosen to ‘block-wash’, so to speak. It may be hoping to hav
 - [Nouriel Roubini outlines the 2020 recession risk](https://ftalphaville.ft.com/2019/06/21/1561105108000/Nouriel-Roubini-outlines-the-2020-recession-risk/), Izabella Kaminska, Financial Times
 
 ### Distributed oppression
-Recently-announced Facebook technologies such as their instantiation of "AI on the Edge" pose a massive threat to freedom of speech, and this becomes a threat to commercial participation in society too when allied with Libra.
+Recently-announced Facebook technologies such as their instantiation of "AI on the Edge" pose a massive threat to freedom of speech, and this becomes a threat to commercial participation in society too when allied with Libra. Facebook presents this as “safeguarding” when it is in fact the tool of Orwellian oppression.
 
-My AI on my device, good. Facebook's AI on my device, doubleplusungood.
+My AI on my device, good.
 
-Facebook presents this as “safeguarding” when it is in fact the tool of Orwellian oppression.
+Facebook's AI on my device, doubleplusungood.
 
 <div class="further-reading">Further reading</div>
 
@@ -71,9 +71,9 @@ Mark Zuckerberg does little to dissuade anyone that he is anything less than man
 
 <div class="further-reading">Further reading</div>
 
-- [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), Charlotte, Higgins, The Guardian
+- [What's behind Mark Zuckerberg's man-crush on Emperor Augustus?](https://www.theguardian.com/commentisfree/2018/sep/12/what-attracts-mark-zuckerberg-roman-hardman-augustus), Charlotte Higgins, The Guardian
 - [Facebook has amassed outsized powers … so great that Zuckerberg doesn’t bother denying the fact. “In a lot of ways Facebook is more like a government than a traditional company.”](https://books.google.be/books?id=Q8gPDgAAQBAJ&lpg=PP1&dq=World%20Without%20Mind%3A%20The%20Existential%20Threat%20of%20Big%20Tech&pg=PT72#v=onepage&q&f=false), Franklin Foer, World Without Mind: The Existential Threat of Big Tech
-- [Facebook’s story is “an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.”](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false), Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
+- [Facebook’s story is an indictment of how social media has fostered the deterioration of democratic and intellectual culture around the world.](https://books.google.be/books?id=EGhaDwAAQBAJ&lpg=PA3&dq=an%20indictment%20of%20how%20social%20media%20has%20fostered%20the%20deterioration%20of%20democratic%20and%20intellectual%20culture%20around%20the%20world.&pg=PA3#v=onepage&q&f=false), Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
 - [It’s not that we’ve failed to rein in Facebook and Google. We’ve not even tried.](https://www.theguardian.com/commentisfree/2019/jul/02/facebook-google-data-change-our-behaviour-democracy), Shoshana Zuboff, The Guardian
 
 ### A threat to global financial stability
@@ -100,7 +100,7 @@ A web search (3rd July 2019) fails to identify any reference by Facebook to its 
 
 > Can't wait for a cryptocurrency with the ethics of Uber, the censorship resistance of Paypal, and the centralization of Visa, all tied together under the proven privacy of Facebook.
 
-With inspiration from [Professor George DiMartino](https://georgedemartino.com/cv/), here are [four ethical principles](https://books.google.be/books?id=7A4lDgAAQBAJ&lpg=PP1&dq=doughnut%20economics&pg=PA138#v=onepage&q&f=false) proposed by [Kate Raworth](https://www.kateraworth.com/doughnut/) in _Doughnut Economics_ for the economics profession that could be said to apply equally here:
+Taking inspiration from [Professor George DiMartino](https://georgedemartino.com/cv/), [Kate Raworth](https://www.kateraworth.com/doughnut/) proposes [four ethical principles](https://books.google.be/books?id=7A4lDgAAQBAJ&lpg=PP1&dq=doughnut%20economics&pg=PA138#v=onepage&q&f=false) for the economics profession in her book _Doughnut Economics_ that could be said to apply equally here:
 
 1. _Act in service_ to human prosperity in a flourishing web of life
 
