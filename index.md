@@ -64,6 +64,8 @@ Facebook's AI on my device, doubleplusungood.
 <div class="further-reading">Further reading</div>
 
 - [AI on the Edge at Facebook Developer Conference 2019](https://youtu.be/BmweQVPJhXs), Facebook F8 video
+- [How AI Is Now Being Trained To 'Detoxify' Social Media](https://www.forbes.com/sites/zakdoffman/2019/02/01/googles-mission-impossible-use-ai-to-detoxify-the-internet/#1be90aec4e5a), Zak Doffman, Forbes
+- [Inside Instagram's War on Bullying](https://time.com/5619999/instagram-mosseri-bullying-artificial-intelligence/), Katy Steinmetz, Time Magazine
 - [The inevitability of the transition from a surveillance-society to a veillance-society: Moral and economic grounding for sousveillance](http://www.eyetap.org/papers/docs/IEEE_ISTAS13_Veillance2_Ali_Mann.pdf), Mir Adnan Ali and Steve Mann
 
 ### A threat to democracy
