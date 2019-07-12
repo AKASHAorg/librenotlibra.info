@@ -125,7 +125,28 @@ Facebook Libra represents little more than the technologization of past hegemoni
 
 ***
 
+## More great reads ...
+
+- [Could Regulatory Backlash Entrench Facebook’s New Cryptocurrency Libra?](https://www.eff.org/deeplinks/2019/07/could-regulatory-backlash-entrench-facebooks-new-cryptocurrency-libra), Rainey Reitmann, Electronic Frontier Foundation
+
+And check out [LibreNotLibra.com](https://librenotlibra.com).
+
+***
+
+## Quotes
+
+A space for reactions to LibreNotLibra.info. Got something to say? ... Join us talking about Libra on [Telegram](https://t.me/LibreNotLibra).
+
+> We are about to enter a global Currency Cold War that is centred around CryptoFiat tensions. It will involve 3 different factions–fiat state money (Feds), corporate money (such as Libra) and the "people's" money (bitcoin). It will force the citizens of the world to question their everyday interaction with finance and what the term "money" really means. It will make them realize that their privacy and autonomy can be taken away if how they use money is controlled or facilitated by certain actors. They will come to understand that true freedom comes from truly owning your own assets.
+
+[Phil Chen](https://youtu.be/7YHU05HEFQQ), Decentralization Chief Officer, HTC. [Click here](https://github.com/htczion/ZKMS/wiki) for info about HTC's Zion Key Management Service for its Exodus devices.
+
+> We cannot allow a company which specialises in addictive user interfaces and personal data exploitation to dominate social spending.
+
+[Irina Bolychevsky](http://shevski.com/), Co-founder, [Redecentralize](https://redecentralize.org/)
+
+***
+
 [Chat about Libra on Telegram](https://t.me/LibreNotLibra)
 
 [![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
-
