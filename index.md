@@ -125,9 +125,14 @@ Facebook Libra represents little more than the technologization of past hegemoni
 
 ***
 
-## More great reads ...
+## More links
 
+Some super fine resources that didn't quite fit into our section headings above.
+
+- [What is Libra?](https://www.economist.com/the-economist-explains/2019/07/12/what-is-libra), The Economist
 - [Could Regulatory Backlash Entrench Facebook’s New Cryptocurrency Libra?](https://www.eff.org/deeplinks/2019/07/could-regulatory-backlash-entrench-facebooks-new-cryptocurrency-libra), Rainey Reitmann, Electronic Frontier Foundation
+- [Tencent created QQ Coin long before Facebook’s Libra](https://qz.com/1663249/chinas-tencent-launched-qq-coin-before-long-facebooks-libra-cryptocurrency/), Matthew De Silva, Quartz
+- [There’s a big problem with Facebook’s Libra cryptocurrency](https://arstechnica.com/tech-policy/2019/07/facebooks-half-baked-cryptocurrency-libra-explained/), Timothy B. Lee, Ars Technica
 
 And check out [LibreNotLibra.com](https://librenotlibra.com).
 
@@ -135,7 +140,7 @@ And check out [LibreNotLibra.com](https://librenotlibra.com).
 
 ## Quotes
 
-A space for reactions to LibreNotLibra.info. Got something to say? ... Join us talking about Libra on [Telegram](https://t.me/LibreNotLibra).
+A space for reactions to LibreNotLibra.info. Got something to say? ... Join us on [Telegram](https://t.me/LibreNotLibra).
 
 > We are about to enter a global Currency Cold War that is centred around CryptoFiat tensions. It will involve 3 different factions–fiat state money (Feds), corporate money (such as Libra) and the "people's" money (bitcoin). It will force the citizens of the world to question their everyday interaction with finance and what the term "money" really means. It will make them realize that their privacy and autonomy can be taken away if how they use money is controlled or facilitated by certain actors. They will come to understand that true freedom comes from truly owning your own assets.
 
