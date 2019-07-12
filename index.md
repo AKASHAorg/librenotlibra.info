@@ -10,6 +10,8 @@ This site remains a work in progress. Please let us know [@LibreNotLibra](https:
 
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
+<div class="akashared">***</div>
+
 ## How does Facebook describe its Libra project?
 Retrieved from _https://libra.org/en-US/vision/#how_it_works_ at 15:00 UTC, 3rd July 2019:
 
