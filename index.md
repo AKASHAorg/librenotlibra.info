@@ -10,7 +10,7 @@ This site remains a work in progress. Please let us know [@LibreNotLibra](https:
 
 Facebook representatives are welcome to get in touch — it would be our pleasure to record a live interview with you. Please tweet [@LibreNotLibra](https://twitter.com/LibreNotLibra) to set this up.
 
-<div class="akashared"><hr /></div>
+***
 
 ## How does Facebook describe its Libra project?
 Retrieved from _https://libra.org/en-US/vision/#how_it_works_ at 15:00 UTC, 3rd July 2019:
@@ -28,6 +28,8 @@ Retrieved from _https://libra.org/en-US/vision/#how_it_works_ at 15:00 UTC, 3rd 
 > The Libra Blockchain is operated by a network of validator nodes. The evolution of the blockchain will be overseen by the Founding Members of the Libra Association, and each member will be responsible for running a validator node. As the network grows and becomes more self-sustaining, the Libra Association will work to gradually transition to a permissionless mode of operation.
 
 The page links to the corresponding white paper, [archived here](/docs/LibraWhitePaper_en_US-1.pdf).
+
+***
 
 ## <a name="misrepresented-unnecessary-dangerous"></a>Misrepresented, unnecessary, and dangerous
 Here are the top-level observations and objections that everyone should consider. 
@@ -122,6 +124,7 @@ Facebook Libra represents little more than the technologization of past hegemoni
 - For more on this, check out [the purpose of the AKASHA Foundation](https://akasha.org/about/).
 
 ***
+
 [Chat about Libra on Telegram](https://t.me/LibreNotLibra)
 
 [![join us on Telegram](img/telegram-icon.png "join us on Telegram")](https://t.me/LibreNotLibra)
