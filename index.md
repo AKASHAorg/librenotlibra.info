@@ -97,6 +97,7 @@ Yet Facebook Libra sets out to achieve a level of [vertical integration and visi
 - [G7 Forming Task Force in Response to Facebook’s Libra Cryptocurrency](https://www.coindesk.com/g7-forming-task-force-in-response-facebooks-libra-cryptocurrency), Daniel Palmer, Coindesk
 - [The Trouble Starts If Facebook’s New Currency Succeeds](https://www.theatlantic.com/ideas/archive/2019/06/dont-trust-libra-facebooks-new-cryptocurrency/592450/), Eric Posner, The Atlantic
 - [Facebook’s Libra: Does the World Need Frictionless Money?](https://carnegieendowment.org/chinafinancialmarkets/79396), Michael Pettis, Carnegie Endowment for International Peace 
+- [Facebook Libra: A strategic bear-hug — Crypto maximalism, the sweet spot, and disruption obstruction](https://medium.com/adventures-in-consumer-technology/facebook-libra-a-strategic-bear-hug-d6bf4e2f5b9a), Anthony Bardaro, Adventures in Consumer Technology
 
 ### Ethics
 
