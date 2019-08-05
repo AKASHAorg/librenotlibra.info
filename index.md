@@ -152,6 +152,10 @@ A space for reactions to LibreNotLibra.info. Got something to say? ... join us o
 
 ^ [Irina Bolychevsky](http://shevski.com/), Co-founder, [Redecentralize](https://redecentralize.org/)
 
+> Libra is not censorship-resistant. It's a digital currency set to be operated by a group of corporate giants who, through their participation, will gain access to and control over the financial activities and holdings of billions of people around the world.
+
+^ [Lina Seiche](https://twitter.com/LinaSeiche), Editor-in-chief, [Decentralize Today](https://decentralize.today/cryptocurrency/the-libra-lie-why-facebook-s-cryptocurrency-will-not-become-permissionless)
+
 ***
 
 [Chat about Libra on Telegram](https://t.me/LibreNotLibra)
